@@ -2,7 +2,7 @@
 - 👀 I’m interested in create scripts to help cyber security and linux area
 - 🌱 I’m currently learning cyber security, bash and python
 - 💞️ I’m looking to collaborate on cyber security
-- 📫 How to reach me @ricmarinho (linkedin)
+
 
 <!---
 d0wr1k/d0wr1k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
